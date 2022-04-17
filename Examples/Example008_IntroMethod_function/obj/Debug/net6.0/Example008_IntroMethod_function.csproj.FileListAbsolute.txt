@@ -1,0 +1,5 @@
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Example008_IntroMethod_function\obj\Debug\net6.0\Example008_IntroMethod_function.csproj.AssemblyReference.cache
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Example008_IntroMethod_function\obj\Debug\net6.0\Example008_IntroMethod_function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Example008_IntroMethod_function\obj\Debug\net6.0\Example008_IntroMethod_function.AssemblyInfoInputs.cache
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Example008_IntroMethod_function\obj\Debug\net6.0\Example008_IntroMethod_function.AssemblyInfo.cs
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Example008_IntroMethod_function\obj\Debug\net6.0\Example008_IntroMethod_function.csproj.CoreCompileInputs.cache
