@@ -1,0 +1,15 @@
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length\bin\Debug\net6.0\Length.exe
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length\bin\Debug\net6.0\Length.deps.json
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length\bin\Debug\net6.0\Length.runtimeconfig.json
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length\bin\Debug\net6.0\Length.dll
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length\bin\Debug\net6.0\Length.pdb
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length\obj\Debug\net6.0\Length.csproj.AssemblyReference.cache
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length\obj\Debug\net6.0\Length.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length\obj\Debug\net6.0\Length.AssemblyInfoInputs.cache
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length\obj\Debug\net6.0\Length.AssemblyInfo.cs
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length\obj\Debug\net6.0\Length.csproj.CoreCompileInputs.cache
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length\obj\Debug\net6.0\Length.dll
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length\obj\Debug\net6.0\refint\Length.dll
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length\obj\Debug\net6.0\Length.pdb
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length\obj\Debug\net6.0\Length.genruntimeconfig.cache
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length\obj\Debug\net6.0\ref\Length.dll
