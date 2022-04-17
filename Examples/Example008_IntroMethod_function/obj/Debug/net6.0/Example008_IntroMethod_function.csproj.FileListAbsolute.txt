@@ -3,3 +3,13 @@ C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Example008_IntroMe
 C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Example008_IntroMethod_function\obj\Debug\net6.0\Example008_IntroMethod_function.AssemblyInfoInputs.cache
 C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Example008_IntroMethod_function\obj\Debug\net6.0\Example008_IntroMethod_function.AssemblyInfo.cs
 C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Example008_IntroMethod_function\obj\Debug\net6.0\Example008_IntroMethod_function.csproj.CoreCompileInputs.cache
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Example008_IntroMethod_function\bin\Debug\net6.0\Example008_IntroMethod_function.exe
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Example008_IntroMethod_function\bin\Debug\net6.0\Example008_IntroMethod_function.deps.json
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Example008_IntroMethod_function\bin\Debug\net6.0\Example008_IntroMethod_function.runtimeconfig.json
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Example008_IntroMethod_function\bin\Debug\net6.0\Example008_IntroMethod_function.dll
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Example008_IntroMethod_function\bin\Debug\net6.0\Example008_IntroMethod_function.pdb
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Example008_IntroMethod_function\obj\Debug\net6.0\Example008_IntroMethod_function.dll
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Example008_IntroMethod_function\obj\Debug\net6.0\refint\Example008_IntroMethod_function.dll
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Example008_IntroMethod_function\obj\Debug\net6.0\Example008_IntroMethod_function.pdb
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Example008_IntroMethod_function\obj\Debug\net6.0\Example008_IntroMethod_function.genruntimeconfig.cache
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Example008_IntroMethod_function\obj\Debug\net6.0\ref\Example008_IntroMethod_function.dll
