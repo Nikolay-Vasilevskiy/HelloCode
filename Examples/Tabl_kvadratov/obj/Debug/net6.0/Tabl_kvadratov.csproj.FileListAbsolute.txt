@@ -1,0 +1,15 @@
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Tabl_kvadratov\bin\Debug\net6.0\Tabl_kvadratov.exe
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Tabl_kvadratov\bin\Debug\net6.0\Tabl_kvadratov.deps.json
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Tabl_kvadratov\bin\Debug\net6.0\Tabl_kvadratov.runtimeconfig.json
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Tabl_kvadratov\bin\Debug\net6.0\Tabl_kvadratov.dll
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Tabl_kvadratov\bin\Debug\net6.0\Tabl_kvadratov.pdb
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Tabl_kvadratov\obj\Debug\net6.0\Tabl_kvadratov.csproj.AssemblyReference.cache
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Tabl_kvadratov\obj\Debug\net6.0\Tabl_kvadratov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Tabl_kvadratov\obj\Debug\net6.0\Tabl_kvadratov.AssemblyInfoInputs.cache
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Tabl_kvadratov\obj\Debug\net6.0\Tabl_kvadratov.AssemblyInfo.cs
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Tabl_kvadratov\obj\Debug\net6.0\Tabl_kvadratov.csproj.CoreCompileInputs.cache
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Tabl_kvadratov\obj\Debug\net6.0\Tabl_kvadratov.dll
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Tabl_kvadratov\obj\Debug\net6.0\refint\Tabl_kvadratov.dll
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Tabl_kvadratov\obj\Debug\net6.0\Tabl_kvadratov.pdb
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Tabl_kvadratov\obj\Debug\net6.0\Tabl_kvadratov.genruntimeconfig.cache
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Tabl_kvadratov\obj\Debug\net6.0\ref\Tabl_kvadratov.dll
