@@ -5,8 +5,8 @@ int b = a / 100;
 int c = a % 10;
 
 
-System.Console.WriteLine(a);
-System.Console.WriteLine(b);
-System.Console.WriteLine(c);
-System.Console.WriteLine(c & b);
+System.Console.WriteLine($"случайное трёхзначное число {a}");
+//System.Console.WriteLine($"число {b}");
+//System.Console.WriteLine($"число {c}");
 
+System.Console.WriteLine($"число без второй цифры {b}{c} ");
