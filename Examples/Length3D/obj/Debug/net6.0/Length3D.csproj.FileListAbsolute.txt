@@ -1,0 +1,15 @@
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length3D\bin\Debug\net6.0\Length3D.exe
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length3D\bin\Debug\net6.0\Length3D.deps.json
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length3D\bin\Debug\net6.0\Length3D.runtimeconfig.json
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length3D\bin\Debug\net6.0\Length3D.dll
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length3D\bin\Debug\net6.0\Length3D.pdb
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length3D\obj\Debug\net6.0\Length3D.csproj.AssemblyReference.cache
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length3D\obj\Debug\net6.0\Length3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length3D\obj\Debug\net6.0\Length3D.AssemblyInfoInputs.cache
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length3D\obj\Debug\net6.0\Length3D.AssemblyInfo.cs
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length3D\obj\Debug\net6.0\Length3D.csproj.CoreCompileInputs.cache
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length3D\obj\Debug\net6.0\Length3D.dll
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length3D\obj\Debug\net6.0\refint\Length3D.dll
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length3D\obj\Debug\net6.0\Length3D.pdb
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length3D\obj\Debug\net6.0\Length3D.genruntimeconfig.cache
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\Length3D\obj\Debug\net6.0\ref\Length3D.dll
