@@ -1,0 +1,15 @@
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\OtrezokRandom\obj\Debug\net6.0\OtrezokRandom.csproj.AssemblyReference.cache
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\OtrezokRandom\obj\Debug\net6.0\OtrezokRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\OtrezokRandom\obj\Debug\net6.0\OtrezokRandom.AssemblyInfoInputs.cache
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\OtrezokRandom\obj\Debug\net6.0\OtrezokRandom.AssemblyInfo.cs
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\OtrezokRandom\obj\Debug\net6.0\OtrezokRandom.csproj.CoreCompileInputs.cache
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\OtrezokRandom\bin\Debug\net6.0\OtrezokRandom.exe
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\OtrezokRandom\bin\Debug\net6.0\OtrezokRandom.deps.json
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\OtrezokRandom\bin\Debug\net6.0\OtrezokRandom.runtimeconfig.json
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\OtrezokRandom\bin\Debug\net6.0\OtrezokRandom.dll
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\OtrezokRandom\bin\Debug\net6.0\OtrezokRandom.pdb
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\OtrezokRandom\obj\Debug\net6.0\OtrezokRandom.dll
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\OtrezokRandom\obj\Debug\net6.0\refint\OtrezokRandom.dll
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\OtrezokRandom\obj\Debug\net6.0\OtrezokRandom.pdb
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\OtrezokRandom\obj\Debug\net6.0\OtrezokRandom.genruntimeconfig.cache
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\OtrezokRandom\obj\Debug\net6.0\ref\OtrezokRandom.dll
