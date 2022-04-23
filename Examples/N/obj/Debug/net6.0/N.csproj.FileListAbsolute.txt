@@ -1,0 +1,15 @@
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\N\obj\Debug\net6.0\N.csproj.AssemblyReference.cache
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\N\obj\Debug\net6.0\N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\N\obj\Debug\net6.0\N.AssemblyInfoInputs.cache
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\N\obj\Debug\net6.0\N.AssemblyInfo.cs
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\N\obj\Debug\net6.0\N.csproj.CoreCompileInputs.cache
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\N\bin\Debug\net6.0\N.exe
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\N\bin\Debug\net6.0\N.deps.json
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\N\bin\Debug\net6.0\N.runtimeconfig.json
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\N\bin\Debug\net6.0\N.dll
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\N\bin\Debug\net6.0\N.pdb
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\N\obj\Debug\net6.0\N.dll
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\N\obj\Debug\net6.0\refint\N.dll
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\N\obj\Debug\net6.0\N.pdb
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\N\obj\Debug\net6.0\N.genruntimeconfig.cache
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\N\obj\Debug\net6.0\ref\N.dll
