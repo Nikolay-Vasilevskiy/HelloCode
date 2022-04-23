@@ -1,0 +1,15 @@
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\ДЗ№27\bin\Debug\net6.0\ДЗ№27.exe
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\ДЗ№27\bin\Debug\net6.0\ДЗ№27.deps.json
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\ДЗ№27\bin\Debug\net6.0\ДЗ№27.runtimeconfig.json
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\ДЗ№27\bin\Debug\net6.0\ДЗ№27.dll
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\ДЗ№27\bin\Debug\net6.0\ДЗ№27.pdb
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\ДЗ№27\obj\Debug\net6.0\ДЗ№27.csproj.AssemblyReference.cache
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\ДЗ№27\obj\Debug\net6.0\ДЗ№27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\ДЗ№27\obj\Debug\net6.0\ДЗ№27.AssemblyInfoInputs.cache
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\ДЗ№27\obj\Debug\net6.0\ДЗ№27.AssemblyInfo.cs
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\ДЗ№27\obj\Debug\net6.0\ДЗ№27.csproj.CoreCompileInputs.cache
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\ДЗ№27\obj\Debug\net6.0\ДЗ№27.dll
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\ДЗ№27\obj\Debug\net6.0\refint\ДЗ№27.dll
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\ДЗ№27\obj\Debug\net6.0\ДЗ№27.pdb
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\ДЗ№27\obj\Debug\net6.0\ДЗ№27.genruntimeconfig.cache
+C:\Users\caps1\OneDrive\Рабочий стол\repo\Examples\ДЗ№27\obj\Debug\net6.0\ref\ДЗ№27.dll
