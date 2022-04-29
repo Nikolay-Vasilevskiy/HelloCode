@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\caps1\\OneDrive\\Рабочий стол\\repo\\Examples\\vtoroe_nunber\\vtoroe_nunber.csproj": {}
+    "C:\\Users\\caps1\\OneDrive\\Рабочий стол\\repo\\Examples\\Seminar2_vtoroe_number\\vtoroe_nunber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\caps1\\OneDrive\\Рабочий стол\\repo\\Examples\\vtoroe_nunber\\vtoroe_nunber.csproj": {
+    "C:\\Users\\caps1\\OneDrive\\Рабочий стол\\repo\\Examples\\Seminar2_vtoroe_number\\vtoroe_nunber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\caps1\\OneDrive\\Рабочий стол\\repo\\Examples\\vtoroe_nunber\\vtoroe_nunber.csproj",
+        "projectUniqueName": "C:\\Users\\caps1\\OneDrive\\Рабочий стол\\repo\\Examples\\Seminar2_vtoroe_number\\vtoroe_nunber.csproj",
         "projectName": "vtoroe_nunber",
-        "projectPath": "C:\\Users\\caps1\\OneDrive\\Рабочий стол\\repo\\Examples\\vtoroe_nunber\\vtoroe_nunber.csproj",
+        "projectPath": "C:\\Users\\caps1\\OneDrive\\Рабочий стол\\repo\\Examples\\Seminar2_vtoroe_number\\vtoroe_nunber.csproj",
         "packagesPath": "C:\\Users\\caps1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\caps1\\OneDrive\\Рабочий стол\\repo\\Examples\\vtoroe_nunber\\obj\\",
+        "outputPath": "C:\\Users\\caps1\\OneDrive\\Рабочий стол\\repo\\Examples\\Seminar2_vtoroe_number\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\caps1\\AppData\\Roaming\\NuGet\\NuGet.Config"
